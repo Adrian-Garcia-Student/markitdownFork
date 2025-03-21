@@ -210,7 +210,7 @@ You can help by looking at issues or helping review PRs. Any issue or PR is welc
 
 You can also contribute by creating and sharing 3rd party plugins. See `packages/markitdown-sample-plugin` for more details.
 
-## Trademarks
+### Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
 trademarks or logos is subject to and must follow
